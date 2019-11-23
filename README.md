@@ -1,2 +1,0 @@
-# nodeinfo
-Created with CodeSandbox
